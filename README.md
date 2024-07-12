@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrBeana
+- 👋 Hi, I’m @MrBeana (Harikrishnan g naik)
 - 👀 I’m interested in datascience
 - 🌱 I’m eager to learning new technology
 - 💞️ I’m looking to collaborate on github
