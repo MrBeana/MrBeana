@@ -2,7 +2,7 @@
 - 👀 I’m interested in datascience
 - 🌱 I’m eager to learning new technology
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me MY Email : hari80186@gmail.com
+- 📫 How to reach me MY Email : harikrishnangnaik@gmail.com
 
 <!---
 MrBeana/MrBeana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
