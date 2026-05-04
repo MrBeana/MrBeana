@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrBeana (Harikrishnan g naik)
-- 👀 I’m interested in datascience
+- 👀 I’m interested in datascience(Gen AI and Agentic AI)
 - 🌱 I’m eager to learning new technology
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me MY Email : harikrishnangnaik@gmail.com
