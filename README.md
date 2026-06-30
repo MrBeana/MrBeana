@@ -19,7 +19,7 @@
 - Areas: NLP, Computer Vision, Data Analysis
 
 ## 📌 Featured Projects
-- Check out my repositories for AI and data science projects
+- Check out my repositories for Data Science, Generative AI and Agentic AI projects
 - Open to collaborations and innovative ideas
 
 ## 🔗 Connect With Me
