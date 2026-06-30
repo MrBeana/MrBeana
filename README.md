@@ -14,8 +14,6 @@ Data Scientist • Generative AI Engineer • Agentic AI Developer
 
 </p>
 
-# 👋 Hi, I'm Harikrishnan G Naik (@MrBeana)
-
 ## About Me
 - 🤖 Passionate about **Data Science**, **Generative AI**, and **Agentic AI**
 - 🌱 Continuously learning and exploring emerging technologies
